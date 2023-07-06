@@ -1,1 +1,1 @@
-Implementação de uma lista ligada referente a disciplina de Estrutura de Dados 1 - UFMA
+Implementação da Lista Ligada referente a disciplina de Estrutura de Dados 1
