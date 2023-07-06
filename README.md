@@ -1,1 +1,1 @@
-Implementação da Lista Ligada referente a disciplina de Estrutura de Dados 1
+Implementação da Lista Ligada em linguagem C referente a disciplina de Estrutura de Dados 1
